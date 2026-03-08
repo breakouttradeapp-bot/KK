@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="kundli_documents" path="Documents/" />
+    <files-path        name="kundli_internal"  path="pdfs/" />
+    <cache-path        name="kundli_cache"     path="/" />
+</paths>
